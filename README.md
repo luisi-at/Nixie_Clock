@@ -8,7 +8,7 @@ Features:
   * Adufruit DS3231 RTC breakout
   * Three Neuron's HV power supply kit
 
-See the Wiki for a complete breakdown of the build  
+See the [Wiki](https://github.com/luisi-at/Nixie_Clock/wiki) for a complete breakdown of the build  
 
 All files in this repository are used entirely at the user's risk.
 
